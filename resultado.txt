@@ -1,0 +1,2 @@
+ A soma entre 1 + 50 é igual a 51
+ A soma entre 2 + 50 é igual a 52
